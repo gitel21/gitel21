@@ -366,6 +366,14 @@ span {
    cursor: pointer;
 }
 
+.contact form #submit_btn {
+   margin-right: 5px;
+}
+
+.contact form #reset_btn {
+   margin-left: 5px;
+}
+
 .footer {
    padding: 2rem 9%;
    background: var(--bg-color);
